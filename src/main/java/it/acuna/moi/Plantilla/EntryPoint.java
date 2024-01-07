@@ -27,6 +27,7 @@ public class EntryPoint extends Application {
     // aggiornamento 1
     // aggio 2
     // aggio 3
+ // aggio 4
     
     /**
      * The main() method is ignored in correctly deployed JavaFX application.
