@@ -23,9 +23,10 @@ public class EntryPoint extends Application {
         stage.show();
     }
 
-//    il metodo deve essere aggiornato
-    // aggiornamento 2
-    // aggio
+    // il metodo deve essere aggiornato
+    // aggiornamento 1
+    // aggio 2
+    // aggio 3
     
     /**
      * The main() method is ignored in correctly deployed JavaFX application.
