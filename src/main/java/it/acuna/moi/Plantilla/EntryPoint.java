@@ -24,6 +24,8 @@ public class EntryPoint extends Application {
     }
 
 //    il metodo deve essere aggiornato
+    // aggiornamento 2
+    // aggio
     
     /**
      * The main() method is ignored in correctly deployed JavaFX application.
